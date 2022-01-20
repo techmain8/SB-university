@@ -15,7 +15,24 @@ body{
     display: flex;
     justify-content: space-between;
     align-items:center;
+    padding: 10px;
     
+}
+a{
+    color: white;
+}
+h1{
+    font-size: 45px;
+    margin: 150px;
+
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.content p{
+    color : black;
 }
 .footer{
     background-color: bisque;
